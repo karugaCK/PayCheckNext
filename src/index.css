@@ -215,3 +215,12 @@ html.lenis {
 .lenis.lenis-scrolling iframe {
   pointer-events: none;
 }
+
+html, body, #root {
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+}
