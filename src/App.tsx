@@ -43,7 +43,7 @@ function App() {
   }, []);
 
   return (
-    <div className="relative bg-kaleo-sand">
+    <div className="relative bg-kaleo-sand min-h-screen">
       {/* Hero Section */}
       <Hero />
 
